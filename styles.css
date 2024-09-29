@@ -2,8 +2,79 @@
 
 body {
   font-family: "Silkscreen", monospace;
+  width: 1512px;
+  height: 982px;
+  top: 31px;
+  left: 198px;
+  padding: 100px 962px 457px 90px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+div {
+  width: 460px;
+  height: 158px;
+  top: 100px;
+  left: 90px;
+  gap: 0px;
+  border: 3px 0px 0px 3px;
+  opacity: 0px;
+  display: inline-block;
+  max-width: 460px;
+  max-height: 158px;
+  top: 100px;
+  left: 90px;
+  gap: 0px;
+  border-top: 3px solid;
+  border-left: 3px solid;
+  border-right: 0px;
+  padding-bottom: 20px;
+}
+
+h1 {
+  font-family: Silkscreen;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 51.2px;
+  margin: 20px;
+}
+
+p {
+  font-family: Silkscreen;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20.48px;
+  text-align: left;
+  margin: 20px;
+  max-width: 402px;
+  max-height: 60px;
+  top: 81px;
+  left: 28px;
 }
 
 img {
   display: block;
+  max-width: 460px;
+  max-height: 215px;
+  top: 265px;
+  left: 90px;
+  gap: 0px;
+  opacity: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+a {
+  max-width: 372px;
+  max-height: 38px;
+  top: 487px;
+  left: 90px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Silkscreen;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 38.4px;
+  text-align: left;
+  color: black;
 }
