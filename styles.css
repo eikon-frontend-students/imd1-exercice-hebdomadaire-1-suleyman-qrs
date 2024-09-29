@@ -15,10 +15,8 @@ div {
   max-height: 158px;
   top: 100px;
   left: 90px;
-  gap: 0px;
   border-top: 3px solid;
   border-left: 3px solid;
-  border-right: 0px;
   padding-bottom: 20px;
 }
 
@@ -49,8 +47,6 @@ img {
   max-height: 215px;
   top: 265px;
   left: 90px;
-  gap: 0px;
-  opacity: 0px;
   padding-top: 10px;
   padding-bottom: 10px;
 }
@@ -60,8 +56,6 @@ a {
   max-height: 38px;
   top: 487px;
   left: 90px;
-  gap: 0px;
-  opacity: 0px;
   font-family: Silkscreen;
   font-size: 30px;
   font-weight: 400;
