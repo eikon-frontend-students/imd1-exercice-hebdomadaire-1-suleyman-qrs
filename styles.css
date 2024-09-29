@@ -1,9 +1,9 @@
-/* 🦊 Ajoutez tous les styles manquants pour recréer la maquette! */
-
 body {
   font-family: "Silkscreen", monospace;
   width: 1512px;
   height: 982px;
+  top: 31px;
+  left: 198px;
   padding: 100px 962px 457px 90px;
 }
 
