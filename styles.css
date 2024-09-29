@@ -10,13 +10,6 @@ body {
 }
 
 div {
-  width: 460px;
-  height: 158px;
-  top: 100px;
-  left: 90px;
-  gap: 0px;
-  border: 3px 0px 0px 3px;
-  opacity: 0px;
   display: inline-block;
   max-width: 460px;
   max-height: 158px;
